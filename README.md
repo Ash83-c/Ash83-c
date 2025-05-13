@@ -1,4 +1,4 @@
-<h1>My name is Ahmed, thanks for looking at my Github!</h1>
+<h1>My name is Ahmed, thanks for looking at my Github</h1>
 
 
 <h2>🖥️IT Projects:</h2>
